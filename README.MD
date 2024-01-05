@@ -2,7 +2,7 @@
 
 Simple app to demonstrate how to use Azure Functions with Python v2.
 
-![Miztiik Automation - Azure Functions - Python v2 Model](images/miztiik_architecture_azure_python_function_v2_001)
+![Miztiik Automation - Azure Functions - Python v2 Model](images/miztiik_architecture_azure_python_function_v2_001.png)
 
 # Create the Resources.
 
